@@ -26,6 +26,7 @@ function ItemAdd() {
         onClick={handleAdd}
       ><FaPlus /></button>
     </div>
+    
   );
 }
 
